@@ -1,0 +1,6 @@
+-My primary contribution to the project was creating the program based on the requirements for the monitor and add it to the repository.
+-The most challenging problem was figuring out the errors that were happening due to some of the code not being on the same line
+-We tested the program to see if LED came on. Through trial and error we saw the program was successful
+-The skills from CSE1106 were learning how to use circuits and commands to navigate the terminal.
+-If I had more time I would modify the code to tell me if the tempertature is steadily rising or falling.
+
